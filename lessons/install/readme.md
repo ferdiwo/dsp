@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-**Python 3.7.1**
+_Python 3.7.1_
 
  
 
