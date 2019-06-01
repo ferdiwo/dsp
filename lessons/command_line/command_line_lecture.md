@@ -70,7 +70,7 @@ directory.
 
 > Question: How could we make sure that we moved?
 
-```By checking for the working directory by using the "pwd" command
+_By checking for the working directory by using the "pwd" command_
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
