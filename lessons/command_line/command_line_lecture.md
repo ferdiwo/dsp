@@ -201,6 +201,8 @@ ls -lh
 
 > What changed?
 
+_The file size is now displayed using abbreviations, such 30K or 100B._
+
 If instead copying we just want to change the name of a file, we can do:
 
 
