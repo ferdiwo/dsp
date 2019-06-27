@@ -48,8 +48,8 @@ pooled_var = (var1*n1+var2*n2)/(n1+n2)
 d = diff/(pooled_var**0.5)
 
 print(round(d,2))
----
 
+---
 RESULTS:
 
 Summary Statistics:
