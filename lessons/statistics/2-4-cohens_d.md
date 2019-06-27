@@ -2,8 +2,8 @@
 
 >> 
 CODE:
-firsts = live[live.birthord == 1] 
-others = live[live.birthord != 1]
+firsts = live[live.birthord == 1]   
+others = live[live.birthord != 1]   
 
 first_hist = thinkstats2.Hist(firsts.totalwgt_lb, label='first')
 other_hist = thinkstats2.Hist(others.totalwgt_lb, label='other')
