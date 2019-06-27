@@ -1,7 +1,7 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 >> Code:
-   firsts = live[live.birthord == 1]
+firsts = live[live.birthord == 1] . 
 others = live[live.birthord != 1]
 
 first_hist = thinkstats2.Hist(firsts.totalwgt_lb, label='first')
@@ -46,7 +46,7 @@ n1, n2 = len(firsts), len(others)
 pooled_var = (var1*n1+var2*n2)/(n1+n2)
 d = diff/(pooled_var**0.5)
 
-print(round(d,2))
+print(round(d,2)) . 
 
 
 
