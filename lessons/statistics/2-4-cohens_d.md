@@ -66,4 +66,4 @@ The summary statistics show that first born babies on average are lighter than o
 ```
 Cohen's d: -0.09  
 ```
-The difference in means is -0.09 standard deviations between first born babies and other babies. This value is relatively small and therefore not significant. This could be lead back to outliers or insufficient data.  
+The difference in means is -0.09 standard deviations between first born babies and other babies. This difference is relatively small and therefore not extremely significant. But compared to pregnacy lengths for first-born and other children, the difference in means is even bigger, since Cohen's d for pregnancy length was about 0.029 standard deviations. Therefore, the fact if a child is the first-born child or not, has a bigger effect on the weight of the baby, than the length of the pregnancy. 
