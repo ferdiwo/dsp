@@ -101,7 +101,10 @@ P(identical twins | twin brothers) = P(identical twins & twin brothers) / P(twin
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Bayesian and Frequentist statistics mainly differ in one point. According to the Frequentist definition of probability, only events that are repeatable and random can have probabilities (e.g. coin tossing). These events then have the probability of the long-term frequency of occurence of the events in question. Therefore, since we can toss a coin an unlimited number of times with independent results, Frequentists can assign a probability to coin tossing. But regarding hypotheses or fixed events that can't be repeated, Frequentists don't assign probabilities (e.g. probabilities for political campaigns). In that case, Frequentists can only look at parameters of the sample, but can't compute probabilities regarding the population.  
+  
+On the other hand, Bayesians use probabilities to represent uncertainty in any event or hypothesis. It doesn't matter whether events are repeatable or not, Bayesians can assign probabilities. That's when Bayes' Theorem comes into play. When Bayesians are looking at an event (sample), they define a probability distribution over the possible values of the mean and use sample data to update the distribution by using Bayes' Theorem. In order to make use of Bayes' Theorem, the prior probability of the event is needed. By that I mean, if you want to compute the probability that it rains today, given the condition that it was sunny yesterday, you need the general probability of rain, which is called prior probability. The prior probability is the main objection of Frequentists, as they claim that there is always a subjective element in assigning prior probabilites. On the contrary, Bayesians claim not using prior probabilities is the biggest mistakes of Frequentists.  
+
 
 ---
 
